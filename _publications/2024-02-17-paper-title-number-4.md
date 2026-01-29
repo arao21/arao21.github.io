@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "An Integrated Optogenetic and Bioelectronic Platform for Regulating Cardiomyocyte Function"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2024-07-25
+venue: 'Advanced Science'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/39054679/'
+citation: 'Bolonduro OA; Zijing C; Yan-Ru L; Rao AA; Cote M; Liu H; Tzanakakis ES; Timko BP.. (2024). &quot;An Integrated Optogenetic and Bioelectronic Platform for Regulating Cardiomyocyte Function.quot; <i>Advanced Science</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Systems that incorporate both modulation of cellular function and recording capabilities can enhance the utility of these approaches and their customization to the needs of each patient. Here we report an integrated optogenetic and bioelectronic platform for stable and long-term stimulation and monitoring of cardiomyocyte function in vitro. 
