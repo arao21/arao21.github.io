@@ -2,7 +2,7 @@
 title: "Simultaneous stomach-brain electrophysiology reveals dynamic coupling in human sleep"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2025-11-04-stomachbrainSleep
 date: 2025-11-04
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.11.13.686572v1'
