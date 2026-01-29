@@ -4,7 +4,8 @@ collection: teaching
 permalink: /teaching/2025-summer-session-admissions/
 date: 2025-10-01
 role: "Service"
-institution: "Stanford University"
+type: service
+venue: "Stanford University"
 ---
 
 Reviewed over 200 high school applications for Stanford Summer Session program and participated in admissions evaluation and selection.
