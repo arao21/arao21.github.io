@@ -2,10 +2,10 @@
 title: "Bioengineering Teaching Assistant Mentor"
 collection: teaching
 permalink: /teaching/ta-mentor/
-date: 2025-26
+date: 2026-01-01
 type: teaching
 role: "Mentor"
-institution: "Stanford University"
+venue: "Stanford University"
 ---
 
 Mentor graduate teaching assistants across the Bioengineering department, providing guidance on inclusive teaching practices, classroom management, and professional development.
