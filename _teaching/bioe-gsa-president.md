@@ -5,7 +5,7 @@ type: service
 permalink: /teaching/bioe-gsa-president/
 date: 2023-03-01
 role: "Leadership"
-institution: "Stanford University"
+venue: "Stanford University"
 ---
 
 Served as Co-President of the Bioengineering Graduate Student Association.
