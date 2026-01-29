@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Simultaneous stomach-brain electrophysiology reveals dynamic coupling in human sleep"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2025-11-04
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2025.11.13.686572v1'
+citation: 'Rao AA; Fredericks M; Dresler M; Rebollo I; Zeitzer JM; Schoch SF; Coleman TP. (2025) &quotSimultaneous stomach-brain electrophysiology reveals dynamic coupling in human sleep.&quot <i>bioRxiv<i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Sleep involves continuous communication between the brain and body, yet the dynamics of peripheral signals during human sleep remain poorly understood. Here we tested whether gastric electrophysiology exhibits infraslow structure and coordinated fluctuations with cortical rhythms indicative of sleep physiology. 
