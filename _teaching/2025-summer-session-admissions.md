@@ -2,7 +2,7 @@
 title: "Summer Session Admissions Reviewer"
 collection: teaching
 permalink: /teaching/2025-summer-session-admissions/
-date: 2025-26
+date: 2025-10-01
 role: "Service"
 institution: "Stanford University"
 ---
