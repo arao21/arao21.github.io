@@ -15,8 +15,8 @@ I develop signal processing and statistical modeling approaches to study brain�
 
 I analyze simultaneous high-density EEG and electrogastrography (EGG) recorded overnight to characterize stomach–brain coupling across sleep stages and timescales. This work tests whether gastric rhythms provide structured timing and infraslow organization that aligns with cortical events and sleep microarchitecture.
 
-**Methods:** time–frequency analysis, phase-based coupling metrics, mixed-effects models, permutation testing  
-**Keywords:** sleep microarchitecture • interoception • infraslow dynamics • spindles/SOs
+**Methods:** time-frequency analysis, phase-based coupling metrics, mixed-effects models, permutation testing  
+**Keywords:** sleep microarchitecture • interoception • infraslow dynamics • spindles and slow wave oscillations
 
 *Selected work:* [Simultaneous stomach–brain electrophysiology reveals dynamic coupling in human sleep](/publication/2025-11-04-stomach-brain-sleep/)
 
@@ -34,7 +34,7 @@ I build pipelines for extracting interpretable autonomic features (e.g., HR/HRV 
 ---
 
 ## Interpretable Machine Learning for Facial Palsy
-**Question:** Can computer vision and ML quantify dynamic facial function and predict clinical outcomes?
+**Question:** Can computer vision and machine learning quantify dynamic facial function and predict clinical outcomes?
 
 I develop machine learning methods to measure facial movement dynamics from video and to predict facial palsy outcomes using clinically meaningful targets. This work aims to support surgeon decision-making and longitudinal tracking.
 
