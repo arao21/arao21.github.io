@@ -5,7 +5,7 @@ permalink: /teaching/2025-bioe296-instructor/
 date: 2025-03-01
 type: teaching
 role: "Instructor"
-venue: "Stanford University"
+institution: "Stanford University"
 ---
 
 **Role:** Course Instructor  
