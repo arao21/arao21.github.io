@@ -10,7 +10,7 @@ I develop signal processing and statistical modeling approaches to study brain�
 
 ---
 
-## Brain–Body Coupling During Human Sleep (EEG–EGG)
+## Brain-Body Coupling During Human Healthy Sleep 
 **Question:** How do peripheral rhythms coordinate with neural sleep dynamics, and what can this tell us about sleep physiology and cognition?
 
 I analyze simultaneous high-density EEG and electrogastrography (EGG) recorded overnight to characterize stomach–brain coupling across sleep stages and timescales. This work tests whether gastric rhythms provide structured timing and infraslow organization that aligns with cortical events and sleep microarchitecture.
