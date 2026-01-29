@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/2025-bioe296-instructor/
 date: 2025
 role: "Instructor"
-institution: "Stanford University"
+venue: "Stanford University"
 ---
 
 **Role:** Course Instructor  
