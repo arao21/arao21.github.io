@@ -2,11 +2,14 @@
 title: "Heart-on-a-chip Model with Integrated Extra- and Intra-cellular Bioelectronics for Monitoring Cardiac Electrophysiology under Acute Hypoxia"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-24-heartonachip
+permalink: /publication/2020-02-24-heartonachip/
 date: 2020-02-24
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://pubs.acs.org/doi/10.1021/acs.nanolett.0c00076'
-citation: 'Liu H; Bolonduro OA; Rao AA; Duffy BM; Huang Z; Black LD; Timko BP. (2020). &quot;Heart-on-a-chip Model with Integrated Extra- and Intra-cellular Bioelectronics for Monitoring Cardiac Electrophysiology under Acute Hypoxia.&quot; <i>Nano Letters</i>.'
+venue: "Nano Letters"
+paperurl: https://pubs.acs.org/doi/10.1021/acs.nanolett.0c00076
 ---
 
-We demonstrated a bioelectronic heart-on-a-chip model for studying the effects of acute hypoxia on cardiac function. A microfluidic channel enabled rapid modulation of medium oxygenation, which mimicked the regimes induced by a temporary coronary occlusion and reversibly activated hypoxia-related transduction pathways in HL-1 cardiac model cells.
+Liu H, Bolonduro OA, Rao AA, Duffy BM, Huang Z, Black LD, Timko BP.  
+**Heart-on-a-chip Model with Integrated Extra- and Intra-cellular Bioelectronics for Monitoring Cardiac Electrophysiology under Acute Hypoxia.**  
+*Nano Letters*, 2020.
+
+We developed a bioelectronic heart-on-a-chip platform to study the effects of acute hypoxia on cardiac electrophysiology. A microfluidic channel enabled rapid modulation of oxygenation, mimicking transient coronary occlusion and reversibly activating hypoxia-related signaling pathways in HL-1 cardiomyocytes.
