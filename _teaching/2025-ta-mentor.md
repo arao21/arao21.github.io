@@ -1,10 +1,16 @@
 ---
-title: "Bioengineering Teaching Assistant Mentor"
+title: "Bioengineering TA Mentor"
 collection: teaching
+type: teaching
 permalink: /teaching/ta-mentor/
 date: 2026-01-01
-type: teaching
-role: "Mentor"
 venue: "Stanford University"
+excerpt: "Mentor to Bioengineering teaching assistants on inclusive pedagogy and classroom practice."
 ---
 
+Mentor to graduate teaching assistants across the Bioengineering department.
+
+- Advised TAs on inclusive teaching practices  
+- Provided guidance on classroom management  
+- Supported professional teaching development  
+- Shared evidence-based instructional strategies
