@@ -21,5 +21,6 @@ main:
     url: /teaching/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Rao, Akshita_Academic CV 2025 .pdf
+    target: _blank
 
