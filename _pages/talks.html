@@ -22,12 +22,10 @@ author_profile: true
 {% assign guest   = y.items | where: "talk_type", "guest_lecture" %}
 {% assign groupm  = y.items | where: "talk_type", "group_meeting" %}
 
-{% if invited.size > 0 %}
-#### Invited talks & seminars
+<h3>Invited talks &amp; seminars</h3>
 {% for t in invited %}
-{% include talk-timeline-item.html talk=t %}
+  {% include talk-timeline-item.html talk=t %}
 {% endfor %}
-{% endif %}
 
 {% if conf.size > 0 %}
 #### Conferences & posters
@@ -50,11 +48,9 @@ author_profile: true
 {% endfor %}
 {% endif %}
 
-{% if posters.size > 0 %}
-#### Posters
+<h3>Posters</h3>
 {% for t in posters %}
-{% include talk-timeline-item.html talk=t %}
+  {% include talk-timeline-item.html talk=t %}
 {% endfor %}
-{% endif %}
 
 {% endfor %}
