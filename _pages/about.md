@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in Bioengineering at Stanford University, advised by Prof. Todd Coleman. My research combines multimodal electrophysiology and wearable sensing to better understand brain-body interactions.
+I am a fourth-year PhD student in Bioengineering at Stanford University, advised by [Dr. Todd Coleman](https://engineering.stanford.edu/people/todd-coleman), and co-advised by [Dr. Jamie Zeitzer](https://profiles.stanford.edu/jamie-zeitzer). My research combines multimodal electrophysiology and wearable sensing to better understand brain-body interactions, with a particular emphasis on sleep and recovery biomarkers.
 
-Broadly, I’m interested in how peripheral physiology and neural rhythms are coordinated during sleep and wake states, and how these dynamics can inform next-generation biomarkers from wearable and scalable sensing.
+A central part of my training has been understanding sensor data to both characterize signal behavior and human physiology, identify limitations, and evaluate algorithm performance across conditions. In my doctoral thesis, I analyze overnight, multimodal electrophysiological recordings during sleep (EEG, gastric and cardiac autonomic signals), designing pipelines that quantify noise structure, stage- and cycle-dependent dynamics, and cross-signal coupling. In our recent [preprint](https://pubmed.ncbi.nlm.nih.gov/41292824/) I led, we demonstrate that infraslow gut-brain coupling during NREM sleep predicts subjective sleep quality, after systematically benchmarking signal stability, coupling metrics, and model generalization across nights and participants. 
+
+As such, I’m interested in how peripheral physiology and neural rhythms are coordinated during sleep and wake states, and how these dynamics can inform next-generation biomarkers from wearable and scalable sensing.
 
 **Research Themes**
 - Brain-body coupling during sleep
