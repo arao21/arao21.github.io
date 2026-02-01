@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Simultaneous stomach-brain electrophysiology reveals dynamic coupling in human sleep<br />Sleep Regulation and Function Gordon Research Conference, 2026; Galveston, Texas, USA",
+    29.3872254,
+    -94.992736
+  ],
+  [
     "Dynamic Facial Analysis for Predicting Facial Palsy Outcomes: Comparing Landmark Detection Models and Integrating Ordinal Regression<br />IEEE EMBC 2025; Copenhagen, Denmark",
     55.6867243,
     12.5700724
