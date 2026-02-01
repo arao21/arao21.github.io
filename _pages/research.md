@@ -18,7 +18,7 @@ I analyze simultaneous high-density EEG and electrogastrography (EGG) recorded o
 **Methods:** time-frequency analysis, phase-based coupling metrics, mixed-effects models, permutation testing  
 **Keywords:** sleep microarchitecture • interoception • infraslow dynamics • spindles and slow wave oscillations
 
-*Selected work:* [Simultaneous stomach–brain electrophysiology reveals dynamic coupling in human sleep](/publication/2025-11-04-stomach-brain-sleep/)
+*Selected work:* [Simultaneous stomach–brain electrophysiology reveals dynamic coupling in human sleep](https://pubmed.ncbi.nlm.nih.gov/41292824/)
 
 
 ---
@@ -39,7 +39,7 @@ I build pipelines for extracting interpretable autonomic features (e.g., HR/HRV 
 I develop machine learning methods to measure facial movement dynamics from video and to predict facial palsy outcomes using clinically meaningful targets. This work aims to support surgeon decision-making and longitudinal tracking.
 
 **Methods:** landmark-based dynamics, ordinal regression, model evaluation/validation  
-*Selected work:* [Machine Learning Methods to Track Dynamic Facial Function in Facial Palsy](/publication/2025-ml-facial-palsy/)
+*Selected work:* [Machine Learning Methods to Track Dynamic Facial Function in Facial Palsy](https://pubmed.ncbi.nlm.nih.gov/40333095/)
 
 ---
 
