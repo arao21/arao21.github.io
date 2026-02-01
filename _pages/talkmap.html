@@ -5,6 +5,14 @@ permalink: /talkmap/
 author_profile: true
 ---
 
-<div style="width: 100%; max-width: 1000px;">
-  <iframe src="{{ base_path }}/talkmap/map.html" height="700" width="100%" style="border:none;"></iframe>
-</div>
+{% include base_path %}
+
+<p>
+  This map is generated from the location fields in <code>_talks/</code>.
+</p>
+
+<iframe src="{{ base_path }}/talkmap/map.html"
+        height="700"
+        width="100%"
+        style="border:none;">
+</iframe>
