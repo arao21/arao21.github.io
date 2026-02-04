@@ -12,8 +12,14 @@ A central part of my training has been understanding sensor data to both charact
 
 As such, I’m interested in how peripheral physiology and neural rhythms are coordinated during sleep and wake states, and how these dynamics can inform next-generation biomarkers from wearable and scalable sensing. I anticipate to complete my PhD work in 2027 and am open to opportunities for collaboration!
 
-
 **Research Themes**
 - Brain-body coupling during sleep
 - Wearable signal processing and physiologic modeling
 - Translational machine learning for clinical decision support
+
+<div class="research-figure">
+  <img src="{{ site.baseurl }}/images/BrainBodyGraphic.gif" alt="Stomach–brain coupling during sleep graphic">
+  <div class="caption">
+    <strong>Key idea:</strong> multimodal sleep recordings reveal gut-brain coupling across timescales, which has functional consequences for next day memory recall and subjective sleep quality metrics.
+  </div>
+</div>
