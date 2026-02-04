@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awards & Outreach"
+title: "Awards"
 permalink: /awards/
 ---
 ⭐ Stanford Graduate Fellow  
