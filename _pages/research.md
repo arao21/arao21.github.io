@@ -42,10 +42,17 @@ I build pipelines for extracting interpretable autonomic features (e.g., HR/HRV 
 ## Interpretable Machine Learning for Facial Palsy
 **Question:** Can computer vision and machine learning quantify dynamic facial function and predict clinical outcomes?
 
-I develop machine learning methods to measure facial movement dynamics from video and to predict facial palsy outcomes using clinically meaningful targets. This work aims to support surgeon decision-making and longitudinal tracking.
+I developed machine learning methods employing likelihood ratio tests, optimal transport theory, and Mahalanobis distances to measure facial movement dynamics from video and to predict facial palsy outcomes using clinically meaningful targets. This work aims to support surgeon decision-making and longitudinal tracking.
 
 **Methods:** landmark-based dynamics, ordinal regression, model evaluation/validation  
+
 *Selected work:* [Machine Learning Methods to Track Dynamic Facial Function in Facial Palsy](https://pubmed.ncbi.nlm.nih.gov/40333095/)
+
+<div class="research-figure">
+  <img src="{{ site.baseurl }}/images/facialPalsy.png" alt="Facial palsy modeling project">
+  <div class="caption">
+  </div>
+</div>
 
 ---
 
