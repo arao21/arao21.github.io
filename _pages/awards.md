@@ -7,7 +7,7 @@ permalink: /awards/
 ⭐ Wu Tsai Research Fellow  
 🏆 NIH DataBlitz Finalist
 
-## Fellowships & Competitive Programs <i class="fa fa-graduation-cap"></i> 
+## Fellowships <i class="fa fa-graduation-cap"></i> 
 
 **Wu Tsai Human Performance Alliance Research Fellowship**  
 *Wu Tsai Human Performance Alliance* — 2025  
