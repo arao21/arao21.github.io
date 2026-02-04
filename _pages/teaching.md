@@ -7,7 +7,7 @@ permalink: /teaching/
 {% assign teaching_items = site.teaching | where: "type", "teaching" | sort: "date" | reverse %}
 {% assign service_items  = site.teaching | where: "type", "service"  | sort: "date" | reverse %}
 
-## Mentoring & Tecahing
+## Mentoring and Teaching
 {% for post in teaching_items %}
   {% include archive-single.html %}
 {% endfor %}
