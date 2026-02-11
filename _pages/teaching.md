@@ -15,25 +15,25 @@ share: false
 </div>
 
 <div class="role">
-  <div class="role-title"><a href="/teaching/2025-bioe296-instructor/">Instructor — BioE 296: Effective & Equitable Teaching</a></div>
+  <div class="role-title"><a href="/teaching/2025-bioe296-instructor/">Instructor for BioE 296: Effective & Equitable Teaching</a></div>
   <div class="role-meta">Stanford University · 2025</div>
   <div class="role-desc">Designed and taught graduate course on inclusive, evidence-based teaching in bioengineering.</div>
 </div>
 
 <div class="role">
-  <div class="role-title"><a href="/teaching/2025-bioe230-ta/">TA — BioE 230: Measurements & Probability</a></div>
+  <div class="role-title"><a href="/teaching/2025-bioe230-ta/">TA for BioE 230: Measurements & Probability</a></div>
   <div class="role-meta">Stanford University · 2025</div>
   <div class="role-desc">Led discussion sections and office hours on probability, statistics, and signal processing.</div>
 </div>
 
 <div class="role">
-  <div class="role-title"><a href="/teaching/sarc-tutor/">Summer Tutor — Academic Resource Center</a></div>
+  <div class="role-title"><a href="/teaching/sarc-tutor/">Summer Tutor @ Academic Resource Center</a></div>
   <div class="role-meta">Stanford University · 2024</div>
   <div class="role-desc">1:1 STEM tutoring and co-led Academic Excellence Club workshops.</div>
 </div>
 
 <div class="role">
-  <div class="role-title"><a href="/teaching/2024-bioe296-ta/">TA — BioE 296: Effective & Equitable Teaching</a></div>
+  <div class="role-title"><a href="/teaching/2024-bioe296-ta/">TA for BioE 296: Effective & Equitable Teaching</a></div>
   <div class="role-meta">Stanford University · 2024</div>
   <div class="role-desc">Teaching assistant for graduate pedagogy course on inclusive and evidence-based teaching.</div>
 </div>
@@ -48,7 +48,7 @@ share: false
 
 <div class="role">
   <div class="role-title"><a href="/teaching/2025-summer-session-admissions/">Summer Session Admissions Reviewer</a></div>
-  <div class="role-meta">Stanford University — Summer Academic Resource Center · 2025</div>
+  <div class="role-meta">Stanford University, Summer Academic Resource Center · 2025</div>
   <div class="role-desc">Reviewed 200+ high school applications for Stanford Summer Session admissions.</div>
 </div>
 
