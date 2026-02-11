@@ -7,59 +7,75 @@ share: false
 ---
 
 ## 📚 Mentoring
+<div class="cv-entry">
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/ta-mentor/">Bioengineering TA Mentor</a></div>
-  <div class="role-meta">Stanford University · 2026</div>
-  <div class="role-desc">Mentor to Bioengineering teaching assistants on inclusive pedagogy and classroom practice.</div>
+### [Bioengineering TA Mentor](/teaching/ta-mentor/)
+*Stanford University · 2026-Present*  
+Mentor to Bioengineering teaching assistants on inclusive pedagogy and classroom practice.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/2025-bioe296-instructor/">Instructor for BioE 296: Effective & Equitable Teaching</a></div>
-  <div class="role-meta">Stanford University · 2025</div>
-  <div class="role-desc">Designed and taught graduate course on inclusive, evidence-based teaching in bioengineering.</div>
+<div class="cv-entry">
+
+### [Summer Tutor](/teaching/sarc-tutor/)
+*Stanford University, Summer Academic Resource Center · 2024-Present*  
+1:1 STEM tutoring and co-led Academic Excellence Club workshops.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/2025-bioe230-ta/">TA for BioE 230: Measurements & Probability</a></div>
-  <div class="role-meta">Stanford University · 2025</div>
-  <div class="role-desc">Led discussion sections and office hours on probability, statistics, and signal processing.</div>
+<div class="cv-entry">
+
+### [TA for BioE 230: Measurements & Probability](/teaching/2025-bioe230-ta/)
+*Stanford University · 2025*  
+Led discussion sections and office hours on probability, statistics, and signal processing.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/sarc-tutor/">Summer Tutor @ Academic Resource Center</a></div>
-  <div class="role-meta">Stanford University · 2024</div>
-  <div class="role-desc">1:1 STEM tutoring and co-led Academic Excellence Club workshops.</div>
+<div class="cv-entry">
+
+### [Leadership in Inclusive Teaching (LIT) Fellow](/teaching/lit-fellow/)
+*Stanford Center for Teaching and Learning · 2023-25*  
+Multi-year fellowship in equity-centered STEM teaching and pedagogy.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/2024-bioe296-ta/">TA for BioE 296: Effective & Equitable Teaching</a></div>
-  <div class="role-meta">Stanford University · 2024</div>
-  <div class="role-desc">Teaching assistant for graduate pedagogy course on inclusive and evidence-based teaching.</div>
+<div class="cv-entry">
+
+### [Instructor for BioE 296: Effective & Equitable Teaching](/teaching/2025-bioe296-instructor/)
+*Stanford University · 2025*  
+Designed and taught graduate course on inclusive, evidence-based teaching in bioengineering.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/lit-fellow/">Leadership in Inclusive Teaching (LIT) Fellow</a></div>
-  <div class="role-meta">Stanford Center for Teaching and Learning · 2023</div>
-  <div class="role-desc">Multi-year fellowship in equity-centered STEM teaching and pedagogy.</div>
+<div class="cv-entry">
+
+### [TA for BioE 296: Effective & Equitable Teaching](/teaching/2024-bioe296-ta/)
+*Stanford University · 2024*  
+Teaching assistant for graduate pedagogy course on inclusive and evidence-based teaching.
+
 </div>
 
 ## 🤝 Service
+<div class="cv-entry">
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/2025-summer-session-admissions/">Summer Session Admissions Reviewer</a></div>
-  <div class="role-meta">Stanford University, Summer Academic Resource Center · 2025</div>
-  <div class="role-desc">Reviewed 200+ high school applications for Stanford Summer Session admissions.</div>
+### [Summer Session Admissions Reviewer](/teaching/2025-summer-session-admissions/)
+*Stanford University, Summer Academic Resource Center · 2025-*  
+Reviewed 200+ high school applications for Stanford Summer Session admissions.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/bioe-admissions-committee/">BioE PhD Admissions Committee Member</a></div>
-  <div class="role-meta">Stanford University · 2024</div>
-  <div class="role-desc">Reviewed and interviewed applicants for the Bioengineering PhD program.</div>
+<div class="cv-entry">
+
+### [BioE PhD Admissions Committee Member](/teaching/bioe-admissions-committee/)
+*Stanford University · 2024-*  
+Reviewed and interviewed applicants for the Bioengineering PhD program.
+
 </div>
 
-<div class="role">
-  <div class="role-title"><a href="/teaching/bioe-gsa-president/">Co-President — BioE Graduate Student Association</a></div>
-  <div class="role-meta">Stanford University · 2023</div>
-  <div class="role-desc">Led graduate student programming, mentoring, and community initiatives.</div>
+<div class="cv-entry">
+  
+### [Co-President of BioE Graduate Student Association](/teaching/bioe-gsa-president/)
+*Stanford University · 2023-*  
+Led graduate student programming, mentoring, and community initiatives.
+
 </div>
