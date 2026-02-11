@@ -6,7 +6,7 @@ author_profile: true
 share: false
 ---
 
-## Mentoring
+## <i class="fas fa-chalkboard-teacher"></i> Mentoring
 
 <div class="role">
   <div class="role-title"><a href="/teaching/ta-mentor/">Bioengineering TA Mentor</a></div>
@@ -44,7 +44,7 @@ share: false
   <div class="role-desc">Multi-year fellowship in equity-centered STEM teaching and pedagogy.</div>
 </div>
 
-## Service
+## <i class="fas fa-handshake"></i> Service
 
 <div class="role">
   <div class="role-title"><a href="/teaching/2025-summer-session-admissions/">Summer Session Admissions Reviewer</a></div>
