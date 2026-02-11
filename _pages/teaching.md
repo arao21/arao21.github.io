@@ -2,7 +2,7 @@
 layout: single
 title: "Mentoring & Service"
 permalink: /teaching/
-author_profile: false
+author_profile: true
 share: false
 ---
 
