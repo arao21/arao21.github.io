@@ -7,23 +7,31 @@
 }
 
 .role {
-  margin: 0 0 1.1rem 0;
-  padding-bottom: 1.1rem;
-  border-bottom: 1px solid #2e4b59;
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.role:last-child {
+  border-bottom: none;
 }
 
 .role-title {
+  font-size: 1.12rem;
   font-weight: 600;
-  font-size: 1.05rem;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.2rem;
+}
+
+.role-title a {
+  text-decoration: none;
 }
 
 .role-meta {
   font-style: italic;
   opacity: 0.85;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.45rem;
 }
 
 .role-desc {
-  margin: 0;
+  line-height: 1.45;
 }
