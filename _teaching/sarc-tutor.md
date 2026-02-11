@@ -4,6 +4,8 @@ collection: teaching
 type: teaching
 date: 2024-06-01
 venue: "Stanford University"
+permalink: /teaching/sarc-tutor/
+
 excerpt: "1:1 STEM tutoring and co-led Academic Excellence Club workshops."
 ---
 
