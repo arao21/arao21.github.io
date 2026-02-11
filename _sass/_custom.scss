@@ -28,12 +28,12 @@
 
 .role-meta {
   font-style: italic;
-  opacity: 0.85;
+  opacity: 0.80;
   margin-bottom: 0.45rem;
 }
 
 .role-desc {
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 .page__content h2 {
@@ -41,4 +41,9 @@
   margin-bottom: 1.1rem;
   padding-bottom: 0.35rem;
   border-bottom: 2px solid #3b6f85;
+}
+
+.role:not(:last-child) {
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  padding-bottom: 1.2rem;
 }
