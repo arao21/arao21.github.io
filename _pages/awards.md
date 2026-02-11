@@ -7,7 +7,7 @@ permalink: /awards/
 ⭐ Wu Tsai Research Fellow  
 🏆 NIH DataBlitz Finalist
 
-## Fellowships 🎓
+## 🎓 Fellowships
 
 **Wu Tsai Human Performance Alliance Research Fellowship**  
 *Wu Tsai Human Performance Alliance*, 2025  
@@ -31,7 +31,7 @@ Selected undergraduate research fellowship.
 
 ---
 
-## Research & Academic Honors 🏆
+## 🏆 Research & Academic Honors 
 
 **NIH Sleep and Circadian Neurobiology DataBlitz Nominee**  
 Top 20 selected among 514 submitted abstracts, 2025  
@@ -45,7 +45,7 @@ Awarded for excellence in human engineering research.
 
 ---
 
-## Outreach 💡
+## 💡 Outreach 
 
 **Mechanical Engineering Graduation Class Speaker**  
 *Nominated by Tufts University School of Engineering*, 2021  
