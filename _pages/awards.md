@@ -4,28 +4,28 @@ title: "Awards"
 permalink: /awards/
 ---
 ⭐ Stanford Graduate Fellow  
-⭐ Wu Tsai Research Fellow  
-🏆 NIH DataBlitz Finalist
+⭐ Wu Tsai Human Performance Alliance Research Fellow
+🏆 NIH Sleep + Circadian Biology DataBlitz Speaker
 
 ## 🎓 Fellowships
 
-**Wu Tsai Human Performance Alliance Research Fellowship**  
-*Wu Tsai Human Performance Alliance*, 2025  
-Supports interdisciplinary research in human physiology and performance science.
+**[Wu Tsai Human Performance Alliance Research Fellowship](https://humanperformance.stanford.edu/)**  
+*Wu Tsai Human Performance Alliance, Stanford University*, 2025  
+Competitive university fellowship that supports interdisciplinary research in the field of human performance and health.
 
-**Stanford Graduate Fellowship in Science & Engineering**  
+**[Stanford Graduate Fellowship in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf)**  
 *Office of the Vice Provost for Graduate Education, Stanford University*,2024  
 University-wide fellowship supporting doctoral training and research excellence.
 
-**NIH–NIGMS Molecular Biophysics Training Program Trainee**  
+**[NIH–NIGMS Molecular Biophysics Training Program Trainee](https://reporter.nih.gov/project-details/11074694)**  
 *National Institutes of Health*, 2023  
 Competitive graduate training program supporting interdisciplinary biophysics research.
 
-**National Science Foundation FAST-TRAC Scholar**  
+**[National Science Foundation FAST-TRAC Scholar](https://engineering.tufts.edu/fast-trac)**  
 *NSF FAST-TRAC Program*, 2022  
 Program supporting career development and scientific training in translational research.
 
-**Tufts Summer Scholar**  
+**[Tufts Summer Scholar](https://students.tufts.edu/academic-advising-and-undergraduate-studies/summer-scholars-program)**  
 *Tufts University*, 2019  
 Selected undergraduate research fellowship.
 
@@ -33,8 +33,9 @@ Selected undergraduate research fellowship.
 
 ## 🏆 Research & Academic Honors 
 
-**NIH Sleep and Circadian Neurobiology DataBlitz Nominee**  
-Top 20 selected among 514 submitted abstracts, 2025  
+**NIH Sleep and Circadian Neurobiology DataBlitz Speaker**  
+*NIH Sleep and Circadian Neurobiology DataBlitz, SfN*, 2025
+Top 20 talks selected among 514 submitted abstracts at the Society for Neuroscience Annual Meeting, 2025.
 
 **Undergraduate Highest Thesis Honors**  
 *Tufts University*, 2021  
