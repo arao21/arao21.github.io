@@ -5,7 +5,6 @@ permalink: /awards/
 ---
 ⭐ Stanford Graduate Fellow  
 ⭐ Wu Tsai Human Performance Alliance Research Fellow
-
 🏆 NIH Sleep + Circadian Biology DataBlitz Speaker
 
 ## 🎓 Fellowships
