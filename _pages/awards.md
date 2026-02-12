@@ -4,7 +4,9 @@ title: "Awards"
 permalink: /awards/
 ---
 🏆 NIH Sleep + Circadian Biology DataBlitz Speaker
+
 ⭐ Wu Tsai Human Performance Alliance Research Fellow
+
 ⭐ Stanford Graduate Fellow  
 
 ## 🎓 Fellowships
